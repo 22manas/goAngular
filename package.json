@@ -1,0 +1,25 @@
+{
+  "name": "mytasklist",
+  "version": "1.0.0",
+  "description": "simple task manager",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22manas/goAngular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/22manas/goAngular/issues"
+  },
+  "homepage": "https://github.com/22manas/goAngular#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongojs": "^2.4.1"
+  }
+}
